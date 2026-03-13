@@ -14,8 +14,6 @@
 - Saves plot `average_scores.png`  
 - Identifies top performer
 
-![Sample Plot](average_scores.png)
-
 ---
 
 **Author:** Kusuma  
